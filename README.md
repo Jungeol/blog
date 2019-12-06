@@ -3,7 +3,7 @@
 ## 초기 테마 적용
 1. Hueman 테마를 `theme/hueman`에 클론
 ```
-$ git clone https://github.com/ppoffice/hexo-theme-hueman.git themes/hueman
+$ git clone https://github.com/Jungeol/hexo-theme-hueman.git themes/hueman
 ```
 2. `theme/_config.yml.hueman` 파일을 이름 변경 후 `theme/hueman/_config.yml` 로 이동
 
