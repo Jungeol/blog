@@ -3,15 +3,15 @@
 menu:
     Home: /
     # Delete this row if you don't want categories in your header nav bar
-    Categories:
+    # Categories:
     # About: /about/index.html
 
 # Customize
 customize:
-    logo:
-        width: 165
+    logo: 
+        width: 400
         height: 60
-        url: images/logo-header.png
+        url: /images/blog_logo.png
     theme_color: '#006bde'
     highlight: androidstudio
     sidebar: left # sidebar position, options: left, right
@@ -21,20 +21,20 @@ customize:
         # twitter: /
         # facebook: /
         # stack-overflow: /
-        github: https://github.com/ppoffice/hexo-theme-hueman
+        github: https://github.com/Jungeol
         # weibo: /
         # rss: /
-        linkedin: /
+        linkedin: https://www.linkedin.com/in/jungeol/
 
 # Widgets
 widgets:
-    - catalog
-    - recent_posts
+    # - catalog
+    # - recent_posts
     - category
-    - archive
-    - tag
+    # - archive
+    # - tag
     - tagcloud
-    - links
+    # - links
 #    - google_adsense
 
 # Search
