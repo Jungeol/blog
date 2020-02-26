@@ -1,8 +1,11 @@
 ---
 title: sql-mssql
-tag: sql
-category: sql
 date: 2019-12-04 21:40:29
+categories:
+   - db
+   - mssql
+tags:
+   - mssql
 ---
 # mssql tips
 ## UNIQUEIDENTIFIER사용 및 insert시 값 가져오기

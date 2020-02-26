@@ -1,7 +1,9 @@
 ---
 title: 엑셀로 간단하게 SQL생성하기
 date: 2019-12-20 11:33:55
-categories: Sql
+categories:
+    - db
+    - mssql
 tags: 
     - sql
     - excel
