@@ -1,8 +1,11 @@
 ---
 title: javascript-in_and_hasOwnProperty
-tag: javascript
-category: javascript
 date: 2019-12-04 21:40:29
+categories:
+    - language
+    - javascript
+tags:
+    - javascript
 ---
 # Javascript 'in' and 'object.hasOwnProperty'
 ```

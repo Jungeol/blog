@@ -1,8 +1,12 @@
 ---
 title: csharp-linq
-tag: csharp
-category: csharp
 date: 2019-12-04 21:40:29
+categories:
+    - language
+    - c#
+tags:
+    - c#
+    - linq
 ---
 # Linq
 ## FullOuterJoin

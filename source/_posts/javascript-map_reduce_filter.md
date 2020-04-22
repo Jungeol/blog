@@ -1,8 +1,11 @@
 ---
 title: javascript-map_reduce_filter
-tag: javascript
-category: javascript
 date: 2019-12-04 21:40:29
+categories:
+    - language
+    - javascript
+tags:
+    - javascript
 ---
 # map, reduce, filter
 ## Array.prototype.map
