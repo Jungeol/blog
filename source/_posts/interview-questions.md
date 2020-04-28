@@ -180,3 +180,14 @@ CROS(Cross Origin Resource Sharing)란?
 1. 서버에서 Access-Control-Allow-Origin response 헤더를 추가
 2. node.js의 미들웨어 CORS 추가
 3. react의 경우 webpack-dev-server의 proxy 기능을 사용
+
+# 쿠키(Cookie)
+
+## 쿠키 종류
+- Session cookies: 브라우저를 끄면 없어짐
+- Permanent cookies: 브라우저를 꺼도 살아있음
+
+# 웹 스토리지
+- Local Storage: 정보를 영구 저장
+- Session Storage: 브라우저를 닫으면 삭제
+
